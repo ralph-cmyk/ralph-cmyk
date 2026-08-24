@@ -13,7 +13,6 @@ systems that keep the fleet honest.
   on a self-hosted CI fleet: fail-closed quality gates, an auto-fixer that repairs its own failures
 - [99 PRs, 230 commits, 12 repos, 24 hours](https://inspiredbyfrustration.com/blog/agentic-engineering-99-prs-24-hours)
   — one operator
-- Self-hosted CI runner fleet on Fly.io: 50–100 jobs/day, every job under a hard 8-minute cap
 
 **Before this**
 
@@ -28,10 +27,9 @@ development and maintenance costs cut in half.
   apps; MCP server with 69 tools
 - MCP Beast — one authenticated endpoint routing a catalog of 100 MCP servers
 - Context Capture — embeddable bug-reporting widget (screenshot + console + DOM)
-- [inspiredbyfrustration.com](https://inspiredbyfrustration.com) — site, blog CMS, client portal
+- [inspiredbyfrustration.com](https://inspiredbyfrustration.com) — site and blog CMS
 
-**Stack:** Next.js · Supabase · Fly.io · Cloudflare · Bun · TypeScript · OpenAI/Anthropic
-APIs · Stripe
+**Stack:** Next.js · Supabase · Fly.io · Cloudflare · Bun · TypeScript · OpenAI/Anthropic APIs
 
-**LinkedIn:** [linkedin.com/in/ralphduin](https://www.linkedin.com/in/ralphduin/)
+**Elsewhere:** [linkedin.com/in/ralphduin](https://www.linkedin.com/in/ralphduin/) · [cursor.com/@ralph-inspiredbyfrustration](https://cursor.com/@ralph-inspiredbyfrustration)
 
