@@ -1,27 +1,32 @@
 ## Ralph Duin — Fractional CTO · agentic engineering
 
-I run a fleet of AI coding agents as a one-person engineering org — and I lead
-technology for companies that want that leverage without hiring a team.
+**From first call to a working iPhone app in 2 days.**
 
-**Last six weeks (1 Oct – 10 Nov 2026)**
+I lead technology for companies that want to ship fast without hiring a team.
+I do it with a fleet of AI coding agents that I direct, check and sign off on myself.
+That is a team's output from one person.
 
-- 6,415 merged PRs across ~27 live products — 156 a day, 267 on the best day
-- Client platforms shipped: at-home diagnostics, contractor planning, sales and estimating,
-  and an iPhone LiDAR + voice-quote app built in two days
-- 100/100 PageSpeed on the sites I run
+**What clients get**
 
-**The systems that keep it honest — built solo**
-
-- **Agentic Pipeline** — my own build-and-ship platform: every change tested, an AI
-  auto-fixer that repairs failed builds, proven work never re-tested
-- [**AppHandoff**](https://github.com/TeamK2K/apphandoff-mcp-claude-plugin) — the board my agents take work from, with finish-date forecasts
-- **MCP Beast** — one secure doorway from AI agents to outside tools
+- **Speed:** a working app in 2 days; a live public website in 1 day
+- **Finished products, not demos:** 27 products live in production today
+- **Range:** 5 client platforms shipped in the last six weeks, covering medical diagnostics,
+  construction planning, sales and estimating, specialty coffee, and a painter's
+  LiDAR-scan quoting app
+- **Quality:** every change is tested before it goes live, and broken builds repair themselves
 
 **Before this**
 
 12 years at Betty Blocks (enterprise low-code), intern to VP of Sales & Solutions
 Engineering. Government and enterprise delivery, including the Dutch National Police
 innovation portal: 2,000+ users, development and maintenance costs cut in half.
+
+**The systems behind it, built solo**
+
+- **Agentic Pipeline** is my own build-and-ship platform. It tests every change, and an AI auto-fixer repairs failed builds.
+- [**AppHandoff**](https://github.com/TeamK2K/apphandoff-mcp-claude-plugin) is the board my agents take work from, with finish-date forecasts.
+- **MCP Beast** is one secure doorway from AI agents to outside tools.
+- In the last six weeks the fleet merged 6,400+ changes.
 
 **Work with me**
 
